@@ -1,0 +1,9 @@
+* fortune
+
+** instroduce
+
+** usage
+   #+BEGIN_SRC python
+   from fortune import fortune
+   fortune.show()
+   #+END_SRC
